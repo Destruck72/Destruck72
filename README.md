@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Destruck72
 - 👀 I’m interested in creating software
-- 🌱 I’m currently learning django and python poetry
+- 🌱 Recently Graduated from Kenzie Academy as a Full Stack Software Engineer/ Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
     - Email - Iskottlowski@gmail.com
